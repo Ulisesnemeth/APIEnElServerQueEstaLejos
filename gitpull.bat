@@ -1,5 +1,5 @@
 @echo off
 
 set "GitPath=E:\APIEnelserverqueestalejos\APIEnElServerQueEstaLejos"
-set "GitExec=%GitPath%\git-bash.exe"
+set "GitExec=%GitPath%\bin\git.exe"
 git pull
